@@ -1,2 +1,2 @@
 # Pokemon-Scan
-This program uses computer vision to detect Pokémon cards in real-time video feed. It analyzes each frame to identify cards and match them with a database. When a card is detected, it calls a callback function with the Pokémon's label.
+Pokémon Scan: A high-tech twist on rock-paper-scissors using Pokémon cards and computer vision. Hold up your card to the webcam, and our AI recognizes it in real-time. Battle against the computer in this innovative blend of physical cards and digital gameplay. Easy to set up, fun to play, and a great showcase of modern CV technology.
